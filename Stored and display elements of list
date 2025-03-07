@@ -1,3 +1,5 @@
+
+// Write a program to store N elements into the list(Array) and display them.
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
