@@ -1,3 +1,4 @@
+//Given an integer array and an integer value i.e val, remove all occurrences of val in that array in-place. The order of the elements may be changed.  Consider the number of elements in an array which are not equal to value be k, to get accepted, you need to do the following things:  Change the array such that the first k elements of array contain the elements which are not equal to val.
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
