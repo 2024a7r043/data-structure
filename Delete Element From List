@@ -1,3 +1,4 @@
+//Write a program to create a list using array and delete the first occurrence of specified element from the list and print.
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
